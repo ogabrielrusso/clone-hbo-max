@@ -63,7 +63,7 @@ Este projeto é uma implementação front-end da interface de usuário do HBO Ma
 
 ## Estrutura do Projeto
 
-clone-hbo-max/
+clone-HBO-MAX/
 ├── assets/
 │ ├── css/
 │ │ ├── global.css
